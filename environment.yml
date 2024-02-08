@@ -6,8 +6,8 @@ asttokens=2.4.1=pyhd8ed1ab_0
 brotli=1.1.0=hb547adb_1
 brotli-bin=1.1.0=hb547adb_1
 bzip2=1.0.8=h93a5062_5
-ca-certificates=2023.11.17=hf0a4a13_0
-certifi=2023.11.17=pyhd8ed1ab_0
+ca-certificates=2024.2.2=hf0a4a13_0
+certifi=2024.2.2=pyhd8ed1ab_0
 colorama=0.4.6=pyhd8ed1ab_0
 comm=0.2.1=pyhd8ed1ab_0
 contourpy=1.2.0=py312h76e736e_0
@@ -23,6 +23,7 @@ importlib_metadata=7.0.1=hd8ed1ab_0
 ipykernel=6.29.0=pyh3cd1d5f_0
 ipython=8.20.0=pyh707e725_0
 jedi=0.19.1=pyhd8ed1ab_0
+joblib=1.3.2=pyhd8ed1ab_0
 jupyter_client=8.6.0=pyhd8ed1ab_0
 jupyter_core=5.7.1=py312h81bd7bf_0
 kiwisolver=1.4.5=py312h389731b_1
@@ -58,7 +59,7 @@ ncurses=6.4=h463b476_2
 nest-asyncio=1.6.0=pyhd8ed1ab_0
 numpy=1.26.3=py312h8442bc7_0
 openjpeg=2.5.0=h4c1507b_3
-openssl=3.2.0=h0d3ecfb_1
+openssl=3.2.1=h0d3ecfb_0
 packaging=23.2=pyhd8ed1ab_0
 pandas=2.2.0=py312h88edd18_0
 parso=0.8.3=pyhd8ed1ab_0
@@ -82,6 +83,7 @@ python_abi=3.12=4_cp312
 pytz=2023.3.post1=pyhd8ed1ab_0
 pyzmq=25.1.2=py312h1edf716_0
 readline=8.2=h92ec313_1
+scikit-learn=1.4.0=py312hd4306f4_0
 scipy=1.12.0=py312h9d7df2b_2
 seaborn=0.13.1=hd8ed1ab_0
 seaborn-base=0.13.1=pyhd8ed1ab_0
@@ -89,6 +91,7 @@ setuptools=69.0.3=pyhd8ed1ab_0
 six=1.16.0=pyh6c4a22f_0
 stack_data=0.6.2=pyhd8ed1ab_0
 statsmodels=0.14.1=py312hf635c46_0
+threadpoolctl=3.2.0=pyha21a80b_0
 tk=8.6.13=h5083fa2_1
 tornado=6.3.3=py312h02f2b3b_1
 tqdm=4.66.1=pyhd8ed1ab_0
